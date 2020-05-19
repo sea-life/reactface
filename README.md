@@ -1,4 +1,4 @@
-# reactface
+# Reactface
 Project Description:
 ui for csafe
 
@@ -13,9 +13,6 @@ ui for csafe
     - sudo apt install nodejs
     - sudo app install npm
     - nodejs -v
-
-# Todos:
-- Place cli commands in 'Setup Instructions:' area in a better block to display in this file
 
 
 ## Available Scripts
@@ -84,3 +81,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+# Todos:
+- Place cli commands in 'Setup Instructions:' area in a better block to display in this file
